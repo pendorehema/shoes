@@ -1,0 +1,25 @@
+h1 {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.gallery {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin: 20px;
+}
+
+.image {
+  width: 300px;
+  margin: 10px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+  text-align: center;
+  
+}
+
+.image img {
+  width: 100%;
+  height: auto;
+}
+
