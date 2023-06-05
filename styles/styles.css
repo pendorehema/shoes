@@ -82,8 +82,15 @@ main {
   padding: 20px;
 }
 
-.image {
+.image_home {
   display: flex;
+  flex: 1;
+  padding: 20px;
+  text-align: right;
+
+}
+
+image {
   flex: 1;
   padding: 20px;
   text-align: right;
